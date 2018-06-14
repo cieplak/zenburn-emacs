@@ -67,12 +67,14 @@ defining them in this alist."
     ("zenburn-red+2"    . "#ECB3B3")
     ("zenburn-red+1"    . "#DCA3A3")
     ("zenburn-red"      . "#CC9393")
-    ("zenburn-red-1"    . "#BC8383")
+    
+    ("zenburn-red-1"    . "#FF0000") ;; Bright Red
     ("zenburn-red-2"    . "#AC7373")
     ("zenburn-red-3"    . "#9C6363")
     ("zenburn-red-4"    . "#8C5353")
     ("zenburn-red-5"    . "#7C4343")
     ("zenburn-red-6"    . "#6C3333")
+
     ("zenburn-orange"   . "#DFAF8F")
     ("zenburn-yellow"   . "#F0DFAF")
     ("zenburn-yellow-1" . "#E0CF9F")
